@@ -6,5 +6,5 @@ My name is Sara, I'm very creative, curious and ambitious and I love solving pro
 - Corewar, a project where the objective is to build a virtual arena where programs, Champions, will fight with each other. You also create an assembler that compiles those Champions as well as your own Champion.
 
 ## 🌱 I’m currently learning
-- Full stack development with the Helsinki Universtity [Full Stack Open](https://fullstackopen.com/en) course
+- Full stack development with the Helsinki University [Full Stack Open](https://fullstackopen.com/en) course
 - Basics of AI with the [Elements of Ai](https://www.elementsofai.com/) courses by Reaktor and the University of Helsinki
